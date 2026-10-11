@@ -21,3 +21,12 @@ Newest at the bottom. One entry per action or measurement.
 
 - Created this repo and consolidated the strategy, the experiment and the drafts here. Media isn't stored: levels live in the production database, and clips get re-rendered or downloaded from the posts.
 - Next: add sound, post Barrel Blast first (see `experiments/2026-10-showcase-levels.md`), then log the results here.
+
+## 2026-10-11
+
+- Since the last entry the game gained checkpoint cannons, achievements, death markers and trajectories, fillable walls, a main menu built around community levels, music, and a death heatmap for level analytics. The 3 showcase clips were never posted.
+- Reviewed the old clips: in vertical, the level only filled the middle of the frame, so the ball and cannons were a few pixels on a phone. The camera never moved.
+- `/record` gained a director camera: it opens on the whole level, pushes in 1.7× to follow the ball in vertical (`--zoom`), and pulls back out to the whole level on the win. Soft scrims sit behind the caption and footer. Landscape is unchanged.
+- The showcase levels' local files were gone from the game repo's `tmp/levels/`, and production still rejects the `.env` `ADMIN_TOKEN` (401). The user pasted Barrel Blast's JSON; its winning shots (with the coin, 8.6 s of play) were rebuilt with the level simulator and replay as a full clear.
+- Re-rendered `barrel-blast-vertical.mp4` and `barrel-blast-landscape.mp4` (13.9 s, with music and sound effects) into the game repo's `tmp/videos/`.
+- Next: post Barrel Blast to r/IndieGaming as a native video, with the link in the first comment. Then #screenshotsaturday on 2026-10-17 and an itch.io upload.
