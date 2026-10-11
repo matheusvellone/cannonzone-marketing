@@ -55,11 +55,11 @@ Before posting, add a sound: a trending sound on TikTok or Shorts, or a light mu
 
 ## Results
 
-Fill in about 48 h after each post. Get Reddit numbers from the user, and plays from the community page.
+Fill in about 48 h after each post. Get Reddit numbers from the user, plays and clears from the community page, and new players from that post's `utm_campaign` (the query in the game repo's `docs/backend.md`, or OneDollarStats).
 
-| Date | Level | Channel / subreddit | Post link | Upvotes | Comments | Views | Plays (code) | Clears | Notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | | | |
+| Date | Level | Channel / subreddit | utm_campaign | Post link | Upvotes | Comments | Views | New players (utm) | Plays (code) | Clears | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | |
 
 ## What to do with the result
 

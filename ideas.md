@@ -8,7 +8,6 @@ Parked ideas. Product ideas wait for player demand (see `strategy.md`, "Don't fa
 - **Daily level**: one featured level a day gives people a reason to come back and a regular thing to post.
 - **A clip or share card on clearing a hard level**: players spread the game themselves. Would reuse the replay and record pipeline.
 - **itch.io page**: upload the HTML5 build. Low effort, real discovery.
-- **Referrer / UTM tracking**: no analytics today. Per-level codes stand in for now; revisit if the channels outgrow one code per post.
 
 ## Product (only if players ask for it)
 

@@ -37,7 +37,8 @@ We couldn't open the posts, so these come from how those subreddits work:
 6. **Short-form video:** TikTok, YouTube Shorts and Reels with the vertical clips, plus Bluesky/X with #screenshotsaturday. "Can you solve this level?" is the format.
 7. **Give before asking:** play and comment on other people's games in r/playmygame. Many reciprocate, and it builds the karma that keeps posts from being filtered.
 8. **Measure:**
-   - Each post gets its own community level code, which shows its plays and clears.
+   - Each post's link carries UTM tags (`utm_source`, and its own `utm_campaign`), which show where players came from. See `CLAUDE.md`.
+   - Each post also gets its own community level code where possible, which shows its plays and clears.
    - Make sure the first 30 seconds hook a stranger.
    - Make sure the game works well on phones, since most Reddit traffic is mobile.
 
