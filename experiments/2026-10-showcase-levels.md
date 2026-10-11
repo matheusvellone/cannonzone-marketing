@@ -59,7 +59,7 @@ Fill in about 48 h after each post. Get Reddit numbers from the user, plays and 
 
 | Date | Level | Channel / subreddit | utm_campaign | Post link | Upvotes | Comments | Views | New players (utm) | Plays (code) | Clears | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | | | | | | | | |
+| 2026-10-11 | Barrel Blast | r/IndieGaming (vertical clip) | none (untagged link) | | | | | | | | First post. Body written by the user |
 
 ## What to do with the result
 
