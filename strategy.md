@@ -47,3 +47,16 @@ We couldn't open the posts, so these come from how those subreddits work:
 There's a pull to "add everything to the game" before there are players. Don't. The game already has 3 cannon types, countdowns, bouncy and hazard walls, fog, keys and doors, and community levels with share links. That's more than enough for good clips. Ship content, measure, and let player comments decide the next feature.
 
 Example: the backlog item that fits the barrel-blast hook best is **"Canhão se movendo"** (moving cannon). It wasn't built, because a rotating cannon with `lockFire` and a countdown already gives the auto-firing barrel feel (see the Barrel Blast level).
+
+## Community cold start (2026-10-12)
+
+Community levels need players, and players need good levels. This is a cold start, not a deadlock: the game works with zero community (the campaign, plus `/new-level` turning out solvable levels in minutes). Mario Maker and Geometry Dash launched the same way; official levels carried them, and creators came later, from among the players.
+
+1. **Market the game, not the community.** Nobody joins an empty level-sharing platform; people do play a fun puzzle. Every post sells playing.
+2. **Be the first creator, on purpose.** Publish a few good community levels a week with `/new-level`, so whatever a new player opens is worth playing. This is the start of a daily level (see `ideas.md`): curated by us now, pulled from the community later.
+3. **Makers come from players, and they're few.** Usually around 1–5% of players ever open an editor, so makers won't show up by themselves until there are hundreds of players. Track the share of players who open the editor and the share who publish (may need tracking in the game).
+4. **Pay the first makers in players.** When anyone publishes a decent level, record it with `/record`, post it with their credit and code, and feature it in the menu. "200 people played your level" is what makes a maker build another one and bring friends.
+5. **Don't make the community look empty.** A menu of levels showing "0 players · 0 votes" reads as a dead game. Until the numbers are real, lead with the campaign and featured levels, and hide counts below a threshold. This is presentation, not a mechanic, so it's an allowed exception to the feature trap below.
+6. **Recruit makers later, where they already are.** Once there are a few hundred players: r/MarioMaker, Geometry Dash and level-design communities, with a small contest whose prize is a featured clip and the daily level. Not before step 4 has some proof.
+
+Order: now we supply the levels and the marketing is about playing → spotlight every early maker → contests and a daily level pulled from the community.

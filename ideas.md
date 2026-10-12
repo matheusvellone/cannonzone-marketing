@@ -8,6 +8,9 @@ Parked ideas. Product ideas wait for player demand (see `strategy.md`, "Don't fa
 - **Daily level**: one featured level a day gives people a reason to come back and a regular thing to post.
 - **A clip or share card on clearing a hard level**: players spread the game themselves. Would reuse the replay and record pipeline.
 - **itch.io page**: upload the HTML5 build. Low effort, real discovery.
+- **Maker spotlight**: every decent player-made level gets a `/record` clip and a post crediting its maker, with its code, plus a featured slot in the menu. Pays early makers in players, which is what keeps them building. See `strategy.md`, "Community cold start".
+- **Hide empty community stats**: lead the menu with the campaign and featured levels, and hide player/vote counts below a threshold so the game doesn't look dead. Presentation, not a mechanic.
+- **Editor funnel tracking**: share of players who open the editor and who publish. Tells whether makers will emerge on their own.
 
 ## Product (only if players ask for it)
 
